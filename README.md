@@ -1,6 +1,6 @@
 # TCP Game TurnBase
 
-# How to Play - ESCAPE OR DIE
+# HOW TO PLAY ESCAPE OR DIE
 ### by AlfinxAmca
 
 1. Run the Server
