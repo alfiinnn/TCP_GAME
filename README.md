@@ -1,4 +1,4 @@
-# TCP_GAME
+# TCP Game TurnBase
 
 1. Run the Server
 
